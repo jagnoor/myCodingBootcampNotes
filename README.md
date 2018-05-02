@@ -42,11 +42,11 @@ removes or deletes a directory. Totally ...Be Careful
 
 add evrything in the directory in the watchlist
 
-### git commit -m
+### git commit -m "comments"
 
 This is a snapshot in time of the changes you made so far. This commit saves this snapshot on the local computer.
 
- 
+
 
 
 
