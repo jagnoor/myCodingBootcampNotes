@@ -38,5 +38,15 @@ removes ir deletes a file. Totally ...Be Careful
 
 removes or deletes a directory. Totally ...Be Careful 
 
+### git add . 
+
+add evrything in the directory in the watchlist
+
+### git commit -m
+
+This is a snapshot in time of the changes you made so far. This commit saves this snapshot on the local computer.
+
+ 
+
 
 
