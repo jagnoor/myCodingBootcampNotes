@@ -50,6 +50,26 @@ This is a snapshot in time of the changes you made so far. This commit saves thi
 
 Tell you what state you are in.
 
+### cp <target file> <destination file>
+
+Copies a file from target to destination
+
+### mv <target file> <destination file>
+
+Moves a file from target to destination
+
+
+## Cool Terminal shortcuts
+
+up key: goes to previous command
+Tab key (while typing a file/folder): fills out the filename if it's there and unique
+
+###Special Directories:
+
+~/ - User directory
+../ - one directory up (parent directory)
+./ - current directory
+/ - root directory
 
 
 
