@@ -46,6 +46,10 @@ add evrything in the directory in the watchlist
 
 This is a snapshot in time of the changes you made so far. This commit saves this snapshot on the local computer.
 
+### git status 
+
+Tell you what state you are in.
+
 
 
 
