@@ -1,3 +1,5 @@
+
+
 # myCodingBootcampNotes
 My Coding Bootcamp Notes. Notes for my coding bootcamp
 
@@ -70,6 +72,17 @@ Tab key (while typing a file/folder): fills out the filename if it's there and u
 ../ - one directory up (parent directory)
 ./ - current directory
 / - root directory
+
+
+### Creating a new repository in Github
+
+echo "# Bootstrap-Portfolio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jagnoor/Bootstrap-Portfolio.git
+git push -u origin master
+
 
 
 
